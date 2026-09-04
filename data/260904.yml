@@ -7,7 +7,7 @@ about:
   head: ee32be3
   archived: false
   latestVersion: early-access
-  collectedAt: 2026-09-04T19:31:18Z
+  collectedAt: 2026-09-04T21:03:45Z
 timeline:
   created: 2013-03-03
   lastCommit: 2025-12-30
@@ -86,5 +86,83 @@ total:
   openIssue: 145
   commit: 1335
 ---
+path: /home/runner/.x-repo/github.com/jbake-org/jbake
+collectedAt: 2026-09-04T21:03:47Z
+loc:
+  Java:
+    code: 10320
+    comments: 1707
+    blanks: 2777
+    files: 139
+  FreeMarker:
+    code: 663
+    comments: 0
+    blanks: 129
+    files: 37
+  AsciiDoc:
+    code: 451
+    comments: 18
+    blanks: 204
+    files: 4
+  Pan:
+    code: 310
+    comments: 0
+    blanks: 70
+    files: 16
+  Html:
+    code: 260
+    comments: 0
+    blanks: 27
+    files: 25
+  Sh:
+    code: 127
+    comments: 37
+    blanks: 21
+    files: 1
+  Xml:
+    code: 78
+    comments: 18
+    blanks: 16
+    files: 4
+  Batch:
+    code: 68
+    comments: 0
+    blanks: 21
+    files: 1
+  Yaml:
+    code: 61
+    comments: 0
+    blanks: 7
+    files: 3
+  Dockerfile:
+    code: 29
+    comments: 0
+    blanks: 15
+    files: 1
+  JavaScript:
+    code: 24
+    comments: 33
+    blanks: 0
+    files: 9
+  Json:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 2
+  Css:
+    code: 0
+    comments: 54
+    blanks: 0
+    files: 6
+  Text:
+    code: 0
+    comments: 170
+    blanks: 32
+    files: 3
+total:
+  code: 12399
+  comments: 2037
+  blanks: 3319
+  files: 251
 ---
 
