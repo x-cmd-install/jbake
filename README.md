@@ -23,7 +23,19 @@ x install jbake
 - **Latest**: `early-access` (2025-12-26)
 - **Last commit**: 2025-12-30
 - **Assets in release**: 8
-- **Published**: 2025-12-26T22:56:12Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums_sha256.txt](https://github.com/jbake-org/jbake/releases/download/v2.7.0/checksums_sha256.txt) | 168 B | `other` |
+| [checksums_sha256.txt.asc](https://github.com/jbake-org/jbake/releases/download/v2.7.0/checksums_sha256.txt.asc) | 476 B | `other` |
+| [jbake-2.7.0-bin.zip](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip) | 86.5 MiB | `other` |
+| [jbake-2.7.0-bin.zip.asc](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip.asc) | 476 B | `other` |
+| [jbake-2.7.0-bin.zip.sha256](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip.sha256) | 64 B | `other` |
+| [jbake-2.7.0.tar](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar) | 93.0 MiB | `other` |
+| [jbake-2.7.0.tar.asc](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar.asc) | 476 B | `other` |
+| [jbake-2.7.0.tar.sha256](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar.sha256) | 64 B | `other` |
 
 ## Popularity
 
@@ -68,8 +80,8 @@ Lowest-scoring checks:
 Install metadata for jbake lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jbake` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/jbake.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jbake.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:30:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:08:19Z._

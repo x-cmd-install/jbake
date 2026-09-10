@@ -4,7 +4,7 @@
 
 Java based open source static site/blog generator for developers & designers.
 
-![jbake](https://repo.x-cmd.io/jbake.svg)
+![jbake](https://repo.x-cmd.io/jbake.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,19 @@ x install jbake
 - **最新版本**: `early-access` (2025-12-26)
 - **最近提交**: 2025-12-30
 - **Release 含资产**: 8 个
-- **发布时间**: 2025-12-26T22:56:12Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums_sha256.txt](https://github.com/jbake-org/jbake/releases/download/v2.7.0/checksums_sha256.txt) | 168 B | `other` |
+| [checksums_sha256.txt.asc](https://github.com/jbake-org/jbake/releases/download/v2.7.0/checksums_sha256.txt.asc) | 476 B | `other` |
+| [jbake-2.7.0-bin.zip](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip) | 86.5 MiB | `other` |
+| [jbake-2.7.0-bin.zip.asc](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip.asc) | 476 B | `other` |
+| [jbake-2.7.0-bin.zip.sha256](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip.sha256) | 64 B | `other` |
+| [jbake-2.7.0.tar](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar) | 93.0 MiB | `other` |
+| [jbake-2.7.0.tar.asc](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar.asc) | 476 B | `other` |
+| [jbake-2.7.0.tar.sha256](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar.sha256) | 64 B | `other` |
 
 ## 流行度
 
@@ -72,4 +84,4 @@ jbake 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:30:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:08:20Z._
