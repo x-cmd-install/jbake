@@ -1,0 +1,85 @@
+- repo: aur
+  srcname: jbake
+  binname: jbake
+  visiblename: jbake
+  version: 2.6.4
+  origversion: 2.6.4-1
+  status: outdated
+  summary: JBake is a Java based, open source, static site/blog generator for developers & designers
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: jbake
+  visiblename: jbake
+  version: 2.7.0
+  origversion: null
+  status: newest
+  summary: Java based static site/blog generator
+- repo: nix_stable_24_05
+  srcname: jbake
+  visiblename: jbake
+  version: 2.6.7
+  origversion: null
+  status: outdated
+  summary: Java based, open source, static site/blog generator for developers & designers
+  maintainers:
+    - moaxcp@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: jbake
+  visiblename: jbake
+  version: 2.6.7
+  origversion: null
+  status: outdated
+  summary: Java based, open source, static site/blog generator for developers & designers
+  maintainers:
+    - moaxcp@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: jbake
+  visiblename: jbake
+  version: 2.6.7
+  origversion: null
+  status: outdated
+  summary: Java based, open source, static site/blog generator for developers & designers
+  maintainers:
+    - moaxcp@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: jbake
+  visiblename: jbake
+  version: 2.6.7
+  origversion: null
+  status: outdated
+  summary: Java based, open source, static site/blog generator for developers & designers
+  maintainers:
+    - moaxcp@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: jbake
+  visiblename: jbake
+  version: 2.6.7
+  origversion: null
+  status: outdated
+  summary: Java based, open source, static site/blog generator for developers & designers
+  maintainers:
+    - moaxcp@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: jbake
+  visiblename: jbake
+  version: 2.7.0
+  origversion: null
+  status: newest
+  summary: Java based, open source, static site/blog generator for developers & designers
+  maintainers:
+    - moaxcp@gmail.com
+  licenses:
+    - MIT
