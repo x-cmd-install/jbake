@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 90665314,
       "digest": "sha256:dc602d6ebe12d99d33263d0c1cff7f0878c986906dbe6eddf2ca9a89ab14c013",
-      "download_count": 1426,
+      "download_count": 1453,
       "created_at": "2025-12-26T22:56:12Z",
       "updated_at": "2025-12-26T22:56:14Z",
       "browser_download_url": "https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip"
