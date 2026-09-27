@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 90665314,
       "digest": "sha256:dc602d6ebe12d99d33263d0c1cff7f0878c986906dbe6eddf2ca9a89ab14c013",
-      "download_count": 1763,
+      "download_count": 1826,
       "created_at": "2025-12-26T22:56:12Z",
       "updated_at": "2025-12-26T22:56:14Z",
       "browser_download_url": "https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 64,
       "digest": "sha256:0f5ab5619888a35a94ea12d5d25c82174983a297412277badd6a4747a2d5dace",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2025-12-26T22:56:15Z",
       "updated_at": "2025-12-26T22:56:15Z",
       "browser_download_url": "https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip.sha256"
