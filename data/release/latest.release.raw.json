@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 168,
       "digest": "sha256:cac6c9ca44b4440056614b540e137197b7e0089f9d5e92d5d510a2b841b1c011",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2025-12-26T22:56:18Z",
       "updated_at": "2025-12-26T22:56:18Z",
       "browser_download_url": "https://github.com/jbake-org/jbake/releases/download/v2.7.0/checksums_sha256.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 90665314,
       "digest": "sha256:dc602d6ebe12d99d33263d0c1cff7f0878c986906dbe6eddf2ca9a89ab14c013",
-      "download_count": 2355,
+      "download_count": 2428,
       "created_at": "2025-12-26T22:56:12Z",
       "updated_at": "2025-12-26T22:56:14Z",
       "browser_download_url": "https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0-bin.zip"
