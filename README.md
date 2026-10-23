@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 2 | 2 | 6 | 1 | 3 | 6 |
-| last720d | 2024-11-01 | 2 | 2 | 7 | 3 | 6 | 9 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 2 | 2 | 6 | 1 | 3 | 6 |
+| last720d | 2024-11-02 | 2 | 2 | 7 | 3 | 6 | 9 |
 
 ## Release assets
 
@@ -78,6 +78,15 @@ Lowest-scoring checks:
 | [jbake-2.7.0.tar.asc](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar.asc) | 476 B | `other` |
 | [jbake-2.7.0.tar.sha256](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar.sha256) | 64 B | `other` |
 
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/jbake). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.7.0` | ✅ latest |
+| Nix unstable | `2.7.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for jbake lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jbake` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +96,4 @@ Install metadata for jbake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:32:01Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:38:04Z._
