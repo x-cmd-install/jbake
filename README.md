@@ -24,6 +24,16 @@ Total: **12,399** lines of code across **221** files in the top 5 languages.
 | Pan | 310 | 0 | 70 | 16 |
 | Html | 260 | 0 | 27 | 25 |
 
+## OpenSSF Scorecard
+
+Overall score: **3.7 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 4/17 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/jbake-org/jbake>
@@ -48,12 +58,12 @@ Total: **12,399** lines of code across **221** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 2 | 1 | 3 | 0 | 3 | 3 |
-| last720d | 2024-12-05 | 2 | 2 | 7 | 3 | 5 | 9 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 2 | 1 | 3 | 0 | 3 | 0 |
+| last720d | 2024-12-06 | 2 | 2 | 7 | 3 | 5 | 9 |
 
 ## Release assets
 
@@ -68,15 +78,6 @@ Total: **12,399** lines of code across **221** files in the top 5 languages.
 | [jbake-2.7.0.tar.asc](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar.asc) | 476 B | `other` |
 | [jbake-2.7.0.tar.sha256](https://github.com/jbake-org/jbake/releases/download/v2.7.0/jbake-2.7.0.tar.sha256) | 64 B | `other` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/jbake). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.7.0` | ✅ latest |
-| Nix unstable | `2.7.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for jbake lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jbake` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +87,4 @@ Install metadata for jbake lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:18:24Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:10:06Z._
